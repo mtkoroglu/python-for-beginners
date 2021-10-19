@@ -18,8 +18,10 @@ The MATLAB and Python scripts that interact with the user and return the (weight
 *Python script with for loop*
 
 <img src="letter-grade/figure/letter grade python with for loop.png" alt="letter_grade.py" height="550"/>
+
 ## Monitoring Microphone Signal (with FFT plot) in Real-time with Python
-Click on the image to watch the video.</br>
+Click on the image to watch the video.
+
 [![IMAGE ALT TEXT HERE](real-time-fft/figure/speech.png)](https://youtu.be/rJcZqol5_Tg)
 ### Note
 *streamAudio.py* is written by **Zach Miller**.</br>
