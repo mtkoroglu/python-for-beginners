@@ -9,13 +9,9 @@ The letter grades at Gumushane University is given as follows:
 İnteraktif bir şekilde kullanıcıdan vize ve final notunu öğrenip ardından ağırlıklı son notu ve de tekabül eden harf notunu hesaplayan MATLAB ve Python kodları aşağıda verildiği gibidir.</br>
 The MATLAB and Python scripts that interact with the user and return the (weighted) final grade and the corresponding letter grade is shown below.
 
-*if - else koşullu ifadeleriyle Python kodu*
+*if - else koşullu ifadeleriyle Python kodu (videoyu izlemek için resime (koda) tıklayın)*
 
-<img src="letter-grade/figure/harf_notu_if_else.png" alt="if - else ifadeleriyle harf notu hesabı" height="600"/>
-
-Yukarıdaki kodun yazıldığı videoyu izlemek için aşağıdaki resme tıklayınız.
-
-[![IMAGE ALT TEXT HERE](letter-grade/figure/harf_notu_if_else_thumbnail.png)](https://www.youtube.com/watch?v=tWUlGFY3uZc&list=PLyTg8DU4z8EsHXPYd1z4YfrVFurxbgogF)
+[![IMAGE ALT TEXT HERE](letter-grade/figure/harf_notu_if_else.png)](https://www.youtube.com/watch?v=tWUlGFY3uZc&list=PLyTg8DU4z8EsHXPYd1z4YfrVFurxbgogF)
 
 *for döngüsü ile Python kodu (Python script with for loop)*
 
