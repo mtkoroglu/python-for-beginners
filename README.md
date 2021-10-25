@@ -13,9 +13,13 @@ The MATLAB and Python scripts that interact with the user and return the (weight
 
 <img src="letter-grade/figure/letter grade matlab.png" alt="letter_grade.m" height="750"/>
 
-*if - else koşullu ifadeleriyle Python kodu (Python script with if - else conditionals)*
+*Python script with if - else conditionals*
 
 <img src="letter-grade/figure/letter grade python.png" alt="letter_grade.py" height="650"/>
+
+*if - else koşullu ifadeleriyle Python kodu
+
+<img src="letter-grade/figure/harf_notu_if_else.png" alt="if - else ifadeleriyle harf notu hesabı" height="500"/>
 
 *for döngüsü ile Python kodu (Python script with for loop)*
 
