@@ -15,11 +15,12 @@ The MATLAB and Python scripts that interact with the user and return the (weight
 
 Yukarıdaki kodun yazıldığı videoyu izlemek için aşağıdaki resme tıklayınız.
 
+[![IMAGE ALT TEXT HERE](letter-grade/figure/harf_notu_if_else_thumbnail.png)](https://www.youtube.com/watch?v=tWUlGFY3uZc&list=PLyTg8DU4z8EsHXPYd1z4YfrVFurxbgogF)
+
 *for döngüsü ile Python kodu (Python script with for loop)*
 
 <img src="letter-grade/figure/letter grade python with for loop.png" alt="letter_grade.py" height="550"/>
 
-[![IMAGE ALT TEXT HERE](letter-grade/figure/harf_notu_if_else_thumbnail.png)](https://www.youtube.com/watch?v=tWUlGFY3uZc&list=PLyTg8DU4z8EsHXPYd1z4YfrVFurxbgogF)
 
 ## Monitoring Microphone Signal (with FFT plot) in Real-time with Python
 Click on the image to watch the video.
