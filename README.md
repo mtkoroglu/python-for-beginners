@@ -18,7 +18,7 @@ The MATLAB and Python scripts that interact with the user and return the (weight
 <img src="letter-grade/figure/letter grade python with for loop.png" alt="letter_grade.py" height="550"/>
 
 ## Rasgele Sayı, Dizi ve Matris Üretme ve Üzerinde Dolaşma
-Aşağıdaki videoda **numpy** kütüphanesinden **randint()**, **rand()**, **astype()**, **zeros()**, **ones()** komutlarını kullanarak rasgele bir sayı, dizi ve matris üretmeyi öğrenebilirsiniz. Elde edilen matris üzerinde dolaşan ve örnek olarak matrisin sıfıra eşit eleman sayısını bulan kodu da burada bulabilirsiniz. Videoyu izlemek için aşağıdaki resme tıklayın.
+Aşağıdaki videoda **numpy** kütüphanesinden **randint()**, **rand()**, **astype()**, **zeros()**, **ones()** komutlarını kullanarak rasgele bir sayı, dizi ve matris üretmeyi öğrenebilirsiniz [2]. Elde edilen matris üzerinde dolaşan ve örnek olarak matrisin sıfıra eşit eleman sayısını bulan kodu da burada bulabilirsiniz. Videoyu izlemek için aşağıdaki resme tıklayın.
 
 [![IMAGE ALT TEXT HERE](rasgele-sayi/figure/numpy.png)](https://www.youtube.com/watch?v=dc0rateGz4A)
 
@@ -32,4 +32,4 @@ The code is taken from https://github.com/ZWMiller</br>
 I did not ask Zach for permission for uploading his *streamAudio.py* to my own github. The reason for me to upload it here (instead of pointing directly to Zach's repository) is that my students are just beginners in Python so it is very hard for them to go to Zach's account and find the project there. If Zach contacts me for removing the code, I will do it immediately.
 ### Kaynaklar (References)
 [1] https://github.com/ZWMiller/PythonProjects
-
+[2] Generating Random Numbers in Python - https://machinelearningmastery.com/how-to-generate-random-numbers-in-python/
