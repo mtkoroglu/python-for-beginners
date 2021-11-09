@@ -17,6 +17,10 @@ The MATLAB and Python scripts that interact with the user and return the (weight
 
 <img src="letter-grade/figure/letter grade python with for loop.png" alt="letter_grade.py" height="550"/>
 
+## Rasgele Sayı, Dizi ve Matris Üretme ve Üzerinde Dolaşma
+Aşağıdaki videoda **numpy** kütüphanesinden **randint()**, **rand()**, **astype()**, **zeros()**, **ones()** komutlarını kullanarak rasgele bir sayı, dizi ve matris üretmeyi öğrenebilirsiniz. Elde edilen matris üzerinde dolaşan ve örnek olarak matrisin sıfıra eşit eleman sayısını bulan kodu da burada bulabilirsiniz. Videoyu izlemek için aşağıdaki resme tıklayın.
+
+[![IMAGE ALT TEXT HERE](rasgele-sayi/figure/numpy.png)](https://www.youtube.com/watch?v=dc0rateGz4A)
 
 ## Monitoring Microphone Signal (with FFT plot) in Real-time with Python
 Click on the image to watch the video.
