@@ -22,6 +22,10 @@ Aşağıdaki videoda **numpy** kütüphanesinden **randint()**, **rand()**, **as
 
 [![IMAGE ALT TEXT HERE](rasgele-matris/figure/numpy.png)](https://www.youtube.com/watch?v=dc0rateGz4A)
 
+<img src="rasgele-matris/figure/rasgele_tamsayi.png" alt="letter grade" height="300"/></br>
+<img src="rasgele-matris/figure/rasgele_matris.png" alt="letter grade regions" height="500"/>
+
+
 ## Monitoring Microphone Signal (with FFT plot) in Real-time with Python
 Click on the image to watch the video.
 
