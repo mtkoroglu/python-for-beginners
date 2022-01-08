@@ -25,6 +25,14 @@ Aşağıdaki videoda **numpy** kütüphanesinden **randint()**, **rand()**, **as
 <img src="rasgele-matris/figure/rasgele_tamsayi.png" alt="letter grade" height="300"/></br>
 <img src="rasgele-matris/figure/rasgele_matris.png" alt="letter grade regions" height="500"/>
 
+## Güneş ve Ay Takvimi Sene Dönüşümü
+Burada çıktısı aşağıdaki konsol ekranı gibi olan kodu yazacağız.
+
+<img src="solar-lunar-year-conversion/figure/sene-konsol.jpg" alt="solar lunar calendar year conversion" height="300"/>
+
+Kod aşağıdaki gibi verilmektedir.
+
+<img src="solar-lunar-year-conversion/figure/solar_lunar_year_conversion.jpg" alt="solar lunar calendar year conversion code" height="300"/>
 
 ## Monitoring Microphone Signal (with FFT plot) in Real-time with Python
 Click on the image to watch the video.
