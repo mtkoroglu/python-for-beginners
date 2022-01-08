@@ -28,11 +28,11 @@ Aşağıdaki videoda **numpy** kütüphanesinden **randint()**, **rand()**, **as
 ## Güneş ve Ay Takvimi Sene Dönüşümü
 Burada çıktısı aşağıdaki konsol ekranı gibi olan kodu yazacağız.
 
-<img src="solar-lunar-year-conversion/figure/sene-konsol.png" alt="solar lunar calendar year conversion" height="300"/>
+<img src="lunar-solar-year-conversion/figure/sene-konsol.png" alt="solar lunar calendar year conversion" height="300"/>
 
 Kod aşağıdaki gibi verilmektedir.
 
-<img src="solar-lunar-year-conversion/figure/solar_lunar_year_conversion.png" alt="solar lunar calendar year conversion code" height="300"/>
+<img src="lunar-solar-year-conversion/figure/solar_lunar_year_conversion.png" alt="solar lunar calendar year conversion code" height="300"/>
 
 ## Monitoring Microphone Signal (with FFT plot) in Real-time with Python
 Click on the image to watch the video.
